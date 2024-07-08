@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Join the grand opening of our gambling service in Las Vegas! Happening in 2019. Don't miss out on the time-sensitive promotions.",
+        "linkText": "Check the offers"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Bet Smart, Play Big, Win Bigger with Our Premier Gambling Service",
+        "title": "Unlock the Thrill of Winning!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Bet Smart, Play Big, Win Bigger with Our Premier Gambling Service",
+        "title": "Unlock the Thrill of Winning!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Bet Smart, Play Big, Win Bigger with Our Premier Gambling Service",
+        "title": "Unlock the Thrill of Winning!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Bet Smart, Play Big, Win Bigger with Our Premier Gambling Service",
+        "title": "Unlock the Thrill of Winning!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Bet Smart, Play Big, Win Bigger with Our Premier Gambling Service",
+        "title": "Unlock the Thrill of Winning!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Bet Smart, Play Big, Win Bigger with Our Premier Gambling Service",
+        "title": "Unlock the Thrill of Winning!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Bet Smart, Play Big, Win Bigger with Our Premier Gambling Service",
+        "title": "Unlock the Thrill of Winning!"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Unlock the Thrill of Winning!",
+  "subtitle": "Bet Smart, Play Big, Win Bigger with Our Premier Gambling Service"
+}
